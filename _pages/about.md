@@ -17,7 +17,7 @@ My research primarily centers around emerging technology and science communicati
 
 More information should be found in my [CV]().
 
-# News
+# 🔥 News
 - **[Aug. 2024]** I am joining [the Department of Communication and Media at the University of Michiagn](https://lsa.umich.edu/comm) as a Ph.D. student.
 - **[Jun. 2024]** I am presenting our research report about [the media ownership and concentration in China from 2019 to 2021](https://gmicp.org/communications-media-and-internet-concentration-in-china-2019-2021/) on [Global Media and Internet Concentration Project](https://gmicp.org/) with [Dr. Min Jiang](https://pages.charlotte.edu/min-jiang/) and [Xiaofei Han](https://carleton.ca/sjc/profile/han-xiaofei/) at the 74th ICA.
 - **[May. 2024]** I graduated with my Master's degree in Communication Studies from [the University of North Carolina at Charlotte](https://communication.charlotte.edu/).
@@ -193,54 +193,23 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 </div>
 -->
 
-## All Publications
-- *Courteous MPC for Autonomous Driving with CBF-inspired Risk Assessment.*
+## Journal Articles
+- *Addressing whiteness in communication scholar composition and collaboration across seven decades of ICA journals (1951-2022).*
   <br>
-  **Yanze Zhang**, Yiwei Lyu, Sude Ela Demir, Xingyu Zhou, Yupeng Yang, Junmin Wang and Wenhao Luo
+  Haley R Hatfield, Hongtao Hao, Matthew Klein, **Jing Zhang**, Yijie Fu, Jaemin Kim, Jongmin Lee, and Sun Joo (Grace) Ahn
   <br>
-  Accepted to the 27th IEEE International Conference on Intelligent Transportation Systems (**ITSC' 24**), 2024 
+  Accepted to be published in *Journal of Communication*. 
   <br>
-  [[PDF](https://arxiv.org/abs/2408.12822v1)][[Demo-NGSIM](https://youtu.be/9Cekw5xafWw)][[Demo-IDM](https://youtu.be/9Cekw5xafWw)]
+  [[doi](https://doi.org/10.1093/joc/jqae019)][[Data](https://osf.io/8bszj/)][[Code](https://osf.io/8bszj/)]
   
-- *Individualizable Risk Assessment Map for Planning Vehicle Behaviors Respecting Perceived Safety.*
+- *Why do Chinese people consume video game live streaming on the platform? An exploratory study connecting affordance-based gratifications, user identification, and user engagement.*
   <br>
-  Ji Hwan Park, **Yanze Zhang**, Wenaho Luo, and Junmin Wang
+  **Jing (Kristen) Zhang**, Riwei Liu
   <br>
-  Accepted to the 27th IEEE International Conference on Intelligent Transportation Systems (**ITSC' 24**), 2024 
+  Accepted to be published in *Telematics and Informatics*. 
   <br>
-  [PDF-TBA]
+  [[doi](https://doi.org/10.1016/j.tele.2023.102075)]
 
-- *Integrating Online Learning and Connectivity Maintenance for Communication-Aware Multi-Robot Coordination.*
-  <br>
-  Yupeng Yang, Yiwei Lyu, **Yanze Zhang**, Ian Gao, and Wenhao Luo
-  <br>
-  Accepted to the 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS' 24**), 2024 
-  <br>
-  [PDF-TBA]
-
-- *A Transitional Intelligent Driver Model Enabling Vehicle Longitudinal Motion Prediction in Lane-Change Maneuvers.*
-  <br>
-  Sude E. Demir, Xingyu Zhou, **Yanze Zhang**, Wenhao Luo, and Junmin Wang
-  <br>
-  Accepted to the 4th Modeling, Estimation, and Control Conference (**MECC' 24**), 2024 
-  <br>
-  [PDF-TBA]
-
-- *Decentralized Multi-Robot Line-of-Sight Connectivity Maintenance under Uncertainty.*
-  <br>
-  Yupeng Yang, Yiwei Lyu, **Yanze Zhang**, Sha Yi, and Wenhao Luo
-  <br>
-  Accepted to the 2024 Robotics: Science and Systems (**RSS'24**), 2024 
-  <br>
-  [[PDF](https://arxiv.org/pdf/2406.12802)]
-
-- *Safety-Critical Control with Uncertainty Quantification using Adaptive Conformal Prediction.*
-  <br>
-  Hao Zhou, **Yanze Zhang**, and Wenhao Luo
-  <br>
-  Accepted to the 2024 American Control Conference (**ACC'24**), 2024 
-  <br>
-  [[PDF](https://arxiv.org/abs/2407.03569v1)]
 
 <!--
 - *Ecologically-Inspired Decentralized Multi-Agent System with Deadlock Avoidance.*
@@ -319,12 +288,8 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - [Hybrid-Prediction Integrated Planning for Autonomous Driving](https://arxiv.org/abs/2402.02426), Haochen Liu, **Zhiyu Huang**, Wenhui Huang, Haohan Yang, Xiaoyu Mo, Chen Lv, **arXiv, 2024** [![](https://img.shields.io/github/stars/georgeliu233/HPP?style=social&label=Code Stars)](https://github.com/georgeliu233/HPP)
 -->
 
-# 🎖 Honors and Awards
+# 👩‍🏫 Teaching Experience
 <!-- 
-- *2023.09* Best Paper Runner-up Award, ITSC 2023
-- *2023.06* [Innovation Award, nuPlan Planning Challenge](https://opendrivelab.com/AD23Challenge.html#nuplan_planning), CVPR Workshop on End-to-End Autonomous Driving \| [\[video\]](https://youtu.be/ZwhXilQKULY?t=1204)
-- *2023.06* [3rd Place Winner, Waymo Open Dataset Motion Prediction Challenge](http://cvpr2023.wad.vision/), CVPR Workshop on Autonomous Driving
-- *2022.12* [3rd Place Winner, Most Innovative Award, Driving SMARTS Competition](https://smarts-project.github.io/archive/2022_nips_driving_smarts/competition/), NeurIPS Competition Track \| [\[slides\]](https://smarts-project.github.io/assets/docs/aid_driving_smarts.pdf)
 - *2022.06* [2nd Place Winner, Waymo Open Dataset Occupancy and Flow Prediction Challenge](http://cvpr2022.wad.vision/), CVPR Workshop on Autonomous Driving
 - *2022.03* [2nd Place Winner, IEEE VTS Motor Vehicles Challenge](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=6851), VPPC
 - *2021.06* [1st Place Winner, Waymo Open Dataset Interaction Prediction Challenge](http://cvpr2021.wad.vision/), CVPR Workshop on Autonomous Driving \| [\[video\]](https://youtu.be/sjXI_FKYw4Y?t=2546)
@@ -332,7 +297,10 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - *2019.06* Outstanding Graduate (Top 1%)
 - *2018.10* National Scholarship (Top 1%)
 - *2017.10* National Scholarship (Top 1%) -->
-- *2023.06* Conference Travel Award from the Graduate School of UNC Charlotte.
+- *2023FALL & 2024 SPRING* Teaching Assistant for COMM2100: Introduction to Communication Theory at the University of North Carolina at Charlotte. [[Slides](https://comm2100.kristenjz.com/slides/)]|[[Codes](https://github.com/KristenJZ/comm2100)]
+- *2023SPRING* Teaching Assistant for COMM3100: Communication Research Methods.
+- *2022FALL* Teaching Assistant for COMM1101: Public Speaking.
+- *2020SPRING* Teaching Assistant for JOUR120008: Introduction to Journalism Studies.
 
 # 📖 Education
 - *2022.08 - Now*, Doctor of Philosophy, Computer Science, University of North Carolina at Charlotte, The United States 

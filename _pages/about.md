@@ -11,44 +11,20 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-I am a Ph.D. student major in Computer Science at [UNC Charlotte](https://www.charlotte.edu/), where I am fortunate to be supervised
-by [Prof. Wenhao Luo](https://webpages.charlotte.edu/wluo4/). I completed my master's degree in Mechanical Engineering
-from [DUT](https://en.dlut.edu.cn/), and prior to that, I obtained my bachelor’s degree from [UPC](https://english.upc.edu.cn/). 
+I am a Ph.D. student in [the Department of Communication and Media at the University of Michigan](https://lsa.umich.edu/comm). I completed Bachelor's degree from [the School of Journalism at Fudan University](http://www.xwxy.fudan.edu.cn/n1339/index.html) and my Master's degree from [the Department of Communication Studies at the University of North Carolina at Charlotte](https://communication.charlotte.edu/). 
 
-I am passionate about Robotics, Control theory, Computer Vision and Reinforcement Learning, and my goal is to empower the multi-robot system with intelligence(robust and interactive autonomy), which enables robots to make informed decisions for safely and effectively collaborating with each other and with humans in the physical world. Currently, I am conducting simulations and real-world verifications of multi-agent control systems, focusing on developing algorithms for large-scale mixed-autonomy coordination.
+My research primarily centers around emerging technology and science communication. Specifically, I use survey and experimental studies to investigate how emerging technologies (AI, VR, live-streaming, etc.) open new opportunities for engaging the public with scientific topics and fostering a greater understanding of scientific concepts and behaviors. 
 
-<!-- 
-I am currently a visiting student researcher at UC Berkeley, working in the [Mechanical Systems Control (MSC) Lab](https://msc.berkeley.edu/) under the guidance of Prof. Masayoshi Tomizuka and Dr. Wei Zhan. I am pursuing a Ph.D. in the School of Mechanical and Aerospace Engineering at Nanyang Technological University. My research endeavors are based in the [Automated Driving and Human-Machine System (AutoMan) Lab](https://lvchen.wixsite.com/automan), which is led by Prof. Chen Lyu. **I am actively seeking postdoctoral positions to propel my research career further.** -->
+More information should be found in my [CV]().
 
-<!-- 
-My research primarily centers around the intersection of autonomous driving and machine learning. My goal is to develop algorithms and techniques that enable machines to interact with humans naturally, make intelligent decisions, and drive as skillfully as experienced human drivers. Specifically, my research interests encompass deep learning and reinforcement learning, applied to areas such as autonomous driving decision-making, prediction and planning, simulation, and human-machine interaction. My contributions have resulted in the publication of over 20 papers in top AI/ITS/Robotics journals and conferences. -->
-
-# 🔥 News
-- **[Sep. 2024]** I will present our work about autonomous driving on ITSC 2024.
-- **[Jul. 2024]** Our paper about Courteous Driving using CBF-inspired Risk is accepted to [ITSC' 24](https://ieee-itsc.org/2024/).
-- **[Jul. 2024]** Our paper about Individualizable Risk Assessment is accepted to [ITSC' 24](https://ieee-itsc.org/2024/).
-- **[June. 2024]** Our paper about Data-driven Connectivity Maintenance is accepted to [IROS' 24](https://iros2024-abudhabi.org/).
-- **[June. 2024]** Our paper about Vehicle Longitudinal Motion Prediction is accepted to [MECC' 24](https://mecc2024.a2c2.org/).
-- **[May. 2024]** Our paper about Connectivity Maintenance is accepted to [RSS’24](https://roboticsconference.org/).
-- **[Jan. 2024]** Our paper about Conformal Prediction is accepted to [ACC’24](https://acc2024.a2c2.org/).
-- **[Oct. 2023]** I will present our work at [MRS’23](https://sites.bu.edu/mrs2023/).
-- **[Oct. 2023]** Our paper about multi-agent deadlock resolution is accepted to [MRS’23](https://sites.bu.edu/mrs2023/).
-- **[Oct. 2023]** Our paper about connectivity maintenance is accepted to [MRS’23](https://sites.bu.edu/mrs2023/).
-- **[Sep. 2023]** Our paper about connectivity maintenance is accepted to [IROS’23 Workshop](https://ieee-iros.org/).
-- **[Mar. 2023]** Our paper about Image-Based Visual Servoing is accepted to [IFAC’23](https://www.ifac2023.org/).
-
-<!-- 
-- *2024.01*: &nbsp;🎉🎉 Our paper on joint prediction and planning for tree policy has been accepted by ICRA! See you in Yokohama, Japan!
-- *2024.01*: &nbsp;🎉🎉 Our paper on joint prediction and planning for tree policy has been accepted by ICRA! See you in Yokohama, Japan!
-- *2023.11*: &nbsp; I was invited by zdjszx.com to give a public lecture on "Scalable, Learnable, and Interactive Decision-making for Autonomous Driving". The recorded version of the lecture (in Chinese) is available for viewing on [bilibili](https://www.bilibili.com/video/BV1Mz4y1c7BS/?share_source=copy_web&vd_source=d38ad63504821012428c34311a1df246).
-- *2023.10*: &nbsp;🎉🎉 Our paper on brain-inspired reinforcement learning for safe autonomous driving has been accepted by TPAMI!
-- *2023.09*: &nbsp;🎉🎉 We won the best paper runner-up award in ITSC 2023!
-- *2023.09*: &nbsp;🎉🎉 Our paper on human-guided reinforcement learning for robot navigation has been accepted by TPAMI!
-- *2023.08*: &nbsp;🎉🎉 Our GameFormer paper has been accepted by ICCV as **Oral presentation**!
-- *2023.07*: &nbsp;🎉🎉 Our ITSC special session on [learning-powered prediction and decision-making](https://sites.google.com/view/itsc-lpad) has received 17 paper submissions, all of which were accepted. Congratulations to the authors!
-- *2023.06*: &nbsp;🎉🎉 Our team won the innovation award in the nuPlan Planning Challenge! Check out our [report](https://opendrivelab.com/e2ead/AD23Challenge/Track_4_AID.pdf) and [presentation](https://youtu.be/ZwhXilQKULY?t=1204) on our GameFormer Planner.
-- *2023.06*: &nbsp;🎉🎉 Our team secured third place in the Waymo Open Dataset Motion Prediction Challenge! Our [report](https://storage.googleapis.com/waymo-uploads/files/research/2023%20Technical%20Reports/MP_3rd_GRT-R36.pdf) is available on [CVPR 2023
-Workshop on Autonomous Driving](https://cvpr2023.wad.vision/). -->
+# News
+- **[Aug. 2024]** I am joining [the Department of Communication and Media at the University of Michiagn](https://lsa.umich.edu/comm) as a Ph.D. student.
+- **[Jun. 2024]** I am presenting our research report about [the media ownership and concentration in China from 2019 to 2021](https://gmicp.org/communications-media-and-internet-concentration-in-china-2019-2021/) on [Global Media and Internet Concentration Project](https://gmicp.org/) with [Dr. Min Jiang](https://pages.charlotte.edu/min-jiang/) and [Xiaofei Han](https://carleton.ca/sjc/profile/han-xiaofei/) at the 74th ICA.
+- **[May. 2024]** I graduated with my Master's degree in Communication Studies from [the University of North Carolina at Charlotte](https://communication.charlotte.edu/).
+- **[Apr. 2024]** Our paper titled *Addressing Whiteness in communication scholar composition and collaboration across seven decades of ICA journals (1951–2022)* has been accepted to be published in *Journal of Communication*. [doi](https://doi.org/10.1093/joc/jqae019)
+- **[Nov. 2023]** I am presenting my solo-work at the 109th NCA.
+- **[Nov. 2023]** Our paper titled *Why do Chinese people consume video game live streaming on the platform? An exploratory study linking affordance-based gratifications, user identification, and user engagement* has been accepted to be publishd in *Telematics and Informatics*. [doi](https://doi.org/10.1016/j.tele.2023.102075)
+- **[Jul. 2023]** I am presenting our work on game live streaming consuming behaviors at the IAMCR2023.   
   
 # 📝 Publications
 <!--

@@ -196,7 +196,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 ## Journal Articles
 - *Addressing whiteness in communication scholar composition and collaboration across seven decades of ICA journals (1951-2022).*
   <br>
-  Haley R Hatfield, Hongtao Hao, Matthew Klein, **Jing Zhang**, Yijie Fu, Jaemin Kim, Jongmin Lee, and Sun Joo (Grace) Ahn
+  (2024) Haley R Hatfield, Hongtao Hao, Matthew Klein, **Jing Zhang**, Yijie Fu, Jaemin Kim, Jongmin Lee, and Sun Joo (Grace) Ahn
   <br>
   Published in *Journal of Communication*. 
   <br>
@@ -206,7 +206,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
   <br>
   **Jing (Kristen) Zhang**, Riwei Liu
   <br>
-  Published in *Telematics and Informatics*. 
+  (2023) Published in *Telematics and Informatics*. 
   <br>
   [[doi](https://doi.org/10.1016/j.tele.2023.102075)]
 

@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yanze Zhang"
-description              : "Ph.D. student at UNC Charlotte." #Focusing on autonomous driving, machine learning, and decision-making."
-repository               : "MCZhi/MCZhi.github.io"
+title                    : "Kristen Jing Zhang"
+description              : "Ph.D. student at University of Michigan." 
+repository               : "KristenJZ/KristenZ.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yanze Zhang"
+  name             : "Kristen Jing Zhang"
   avatar           : "images/Yanze Zhang.jpeg"
-  bio              : #"University of North Carolina at Charlotte"
-  location         : "Charlotte, NC"
+  bio              : "University of Michigan"
+  location         : "Ann Arbor, MI"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=8mEEHDIAAAAJ&hl=en"
-  email            : "yzhang94@charlotte.edu"
-  researchgate     : # "https://www.researchgate.net/profile/Zhiyu-Huang-5"
+  googlescholar    : "https://scholar.google.com/citations?user=z6sTzq8AAAAJ&hl=en&oi=sra"
+  email            : "jkzhang@umich.edu"
+  researchgate     : "https://www.researchgate.net/profile/Jing-Zhang-770"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,21 +37,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "GEEKZE97"
+  github           : "KristenJZ"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yanze-zhang-b43a3926b"
+  linkedin         : "jing-kristen-zhang-307b90187/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0000-8872-1010"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "ZhiyuChris"
+  twitter          : "KristenJZhang1"
   vine             :
   weibo            :
   xing             :

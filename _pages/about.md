@@ -221,7 +221,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - *2018.10* National Scholarship (Top 1%)
 - *2017.10* National Scholarship (Top 1%) -->
 
-- **2023FALL and 2024 SPRING** Teaching Assistant for COMM2100: Introduction to Communication Theory at the University of North Carolina at Charlotte. [[Slides](https://comm2100.kristenjz.com/slides/)]|[[Codes](https://github.com/KristenJZ/comm2100)]
+- **2023FALL and 2024 SPRING** Teaching Assistant for COMM2100: Introduction to Communication Theory at the University of North Carolina at Charlotte. [[Slides](https://comm2100.kristenjz.com/slides/)]
 - **2023SPRING**Teaching Assistant for COMM3100: Communication Research Methods.
 - **2022FALL** Teaching Assistant for COMM1101: Public Speaking.
 - **2020SPRING** Teaching Assistant for JOUR120008: Introduction to Journalism Studies.

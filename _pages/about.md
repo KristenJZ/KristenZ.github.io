@@ -211,7 +211,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
   [[doi](https://doi.org/10.1016/j.tele.2023.102075)]
 
 
-# 👩‍🏫 Teaching Experience
+# 👩‍🏫 Teaching Experiences
 <!-- 
 - *2022.06* [2nd Place Winner, Waymo Open Dataset Occupancy and Flow Prediction Challenge](http://cvpr2022.wad.vision/), CVPR Workshop on Autonomous Driving
 - *2022.03* [2nd Place Winner, IEEE VTS Motor Vehicles Challenge](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=6851), VPPC
@@ -220,7 +220,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - *2019.06* Outstanding Graduate (Top 1%)
 - *2018.10* National Scholarship (Top 1%)
 - *2017.10* National Scholarship (Top 1%) -->
-
+## Teaching Assistant
 - **2023FALL and 2024 SPRING** Teaching Assistant for COMM2100: Introduction to Communication Theory at the University of North Carolina at Charlotte. [[Slides](https://comm2100.kristenjz.com/slides/)]
 - **2023SPRING** Teaching Assistant for COMM3100: Communication Research Methods at the University of North Carolina at Charlotte.
 - **2022FALL** Teaching Assistant for COMM1101: Public Speaking at the University of North Carolina at Charlotte.

@@ -21,9 +21,9 @@ More information should be found in my [CV]().
 - **[Aug. 2024]** I am joining [the Department of Communication and Media at the University of Michiagn](https://lsa.umich.edu/comm) as a Ph.D. student.
 - **[Jun. 2024]** I am presenting our research report about [the media ownership and concentration in China from 2019 to 2021](https://gmicp.org/communications-media-and-internet-concentration-in-china-2019-2021/) on [Global Media and Internet Concentration Project](https://gmicp.org/) with [Dr. Min Jiang](https://pages.charlotte.edu/min-jiang/) and [Xiaofei Han](https://carleton.ca/sjc/profile/han-xiaofei/) at the 74th ICA.
 - **[May. 2024]** I graduated with my Master's degree in Communication Studies from [the University of North Carolina at Charlotte](https://communication.charlotte.edu/).
-- **[Apr. 2024]** Our paper titled *Addressing Whiteness in communication scholar composition and collaboration across seven decades of ICA journals (1951–2022)* has been accepted to be published in *Journal of Communication*. [doi](https://doi.org/10.1093/joc/jqae019)
+- **[Apr. 2024]** Our paper titled *Addressing Whiteness in communication scholar composition and collaboration across seven decades of ICA journals (1951–2022)* has been accepted to be published in *Journal of Communication*. [[doi](https://doi.org/10.1093/joc/jqae019)]
 - **[Nov. 2023]** I am presenting my solo-work at the 109th NCA.
-- **[Nov. 2023]** Our paper titled *Why do Chinese people consume video game live streaming on the platform? An exploratory study linking affordance-based gratifications, user identification, and user engagement* has been accepted to be publishd in *Telematics and Informatics*. [doi](https://doi.org/10.1016/j.tele.2023.102075)
+- **[Nov. 2023]** Our paper titled *Why do Chinese people consume video game live streaming on the platform? An exploratory study linking affordance-based gratifications, user identification, and user engagement* has been accepted to be publishd in *Telematics and Informatics*. [[doi](https://doi.org/10.1016/j.tele.2023.102075)]
 - **[Jul. 2023]** I am presenting our work on game live streaming consuming behaviors at the IAMCR2023.   
   
 # 📝 Publications

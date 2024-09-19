@@ -9,16 +9,9 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Teaching Experience"
+    url: "/#-teaching-experience"
 
-  - title: "Education"
-    url: "/#-education"
+  - title: "CV"
+    url: "/file/Kristen_Academic_CV.pdf"
 
-  # - title: "Services"
-  #   url: "/#-academic-services"
-  - title: "Services"
-    url: "/#-services"
-
-#  - title: "Internships"
-#    url: "/#-internships"

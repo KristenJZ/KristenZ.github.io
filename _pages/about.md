@@ -15,7 +15,7 @@ I am a Ph.D. student in [the Department of Communication and Media at the Univer
 
 My research primarily centers around emerging technology and science communication. Specifically, I use survey and experimental studies to investigate how emerging technologies (AI, VR, live-streaming, etc.) open new opportunities for engaging the public with scientific topics and fostering a greater understanding of scientific concepts and behaviors. 
 
-More information should be found in my [CV]().
+More information should be found in my [CV](https://kristenjz.com/file/Kristen_Academic_CV.pdf).
 
 # 🔥 News
 - **[Aug. 2024]** I am joining [the Department of Communication and Media at the University of Michiagn](https://lsa.umich.edu/comm) as a Ph.D. student.

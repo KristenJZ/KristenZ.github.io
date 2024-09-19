@@ -194,19 +194,19 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 -->
 
 ## Journal Articles
-- *Addressing whiteness in communication scholar composition and collaboration across seven decades of ICA journals (1951-2022).*
+- *(2024) Addressing whiteness in communication scholar composition and collaboration across seven decades of ICA journals (1951-2022).*
   <br>
-  (2024) Haley R Hatfield, Hongtao Hao, Matthew Klein, **Jing Zhang**, Yijie Fu, Jaemin Kim, Jongmin Lee, and Sun Joo (Grace) Ahn
+  Haley R Hatfield, Hongtao Hao, Matthew Klein, **Jing Zhang**, Yijie Fu, Jaemin Kim, Jongmin Lee, and Sun Joo (Grace) Ahn
   <br>
   Published in *Journal of Communication*. 
   <br>
   [[doi](https://doi.org/10.1093/joc/jqae019)]|[[Data](https://osf.io/8bszj/)]|[[Code](https://osf.io/8bszj/)]
   
-- *Why do Chinese people consume video game live streaming on the platform? An exploratory study connecting affordance-based gratifications, user identification, and user engagement.*
+- *(2023) Why do Chinese people consume video game live streaming on the platform? An exploratory study connecting affordance-based gratifications, user identification, and user engagement.*
   <br>
   **Jing (Kristen) Zhang**, Riwei Liu
   <br>
-  (2023) Published in *Telematics and Informatics*. 
+  Published in *Telematics and Informatics*. 
   <br>
   [[doi](https://doi.org/10.1016/j.tele.2023.102075)]
 

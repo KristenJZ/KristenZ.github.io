@@ -209,12 +209,12 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
   <br>
   [[doi](https://doi.org/10.1016/j.tele.2023.102075)]
 
-## Research Report
-- *2024 Communications, media and internet concentration in China, 2019-2021.*
+## Research Reports
+- *(2024) Communications, media and internet concentration in China, 2019-2021.*
    <br>
   Min Jiang, Xiaofei Han, **Jing (Kristen) Zhang**
    <br>
-  [[Global Media and Internet Concentration Project](https://gmicp.org/communications-media-and-internet-concentration-in-china-2019-2021/)]
+  China Team's report on the project [[Global Media and Internet Concentration Project](https://gmicp.org/communications-media-and-internet-concentration-in-china-2019-2021/)]
 
 # 👩‍🏫 Teaching Experiences
 <!-- 

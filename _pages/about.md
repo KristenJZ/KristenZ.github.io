@@ -15,8 +15,6 @@ I am a Ph.D. student in [the Department of Communication and Media at the Univer
 
 My research primarily centers around emerging technology and science communication. Specifically, I use survey and experimental studies to investigate how emerging technologies (AI, VR, live-streaming, etc.) open new opportunities for engaging the public with scientific topics and fostering a greater understanding of scientific concepts and behaviors. 
 
-More information should be found in my [CV](https://kristenjz.com/file/Kristen_Academic_CV.pdf).
-
 # 🔥 News
 - **[Aug. 2024]** I am joining [the Department of Communication and Media at the University of Michiagn](https://lsa.umich.edu/comm) as a Ph.D. student.
 - **[Jun. 2024]** I am presenting our research report about [the media ownership and concentration in China from 2019 to 2021](https://gmicp.org/communications-media-and-internet-concentration-in-china-2019-2021/) on [Global Media and Internet Concentration Project](https://gmicp.org/) with [Dr. Min Jiang](https://pages.charlotte.edu/min-jiang/) and [Xiaofei Han](https://carleton.ca/sjc/profile/han-xiaofei/) at the 74th ICA.
@@ -211,6 +209,12 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
   <br>
   [[doi](https://doi.org/10.1016/j.tele.2023.102075)]
 
+## Research Report
+- *2024 Communications, media and internet concentration in China, 2019-2021.*
+   <br>
+  Min Jiang, Xiaofei Han, **Jing (Kristen) Zhang**
+   <br>
+  [[Global Media and Internet Concentration Project](https://gmicp.org/communications-media-and-internet-concentration-in-china-2019-2021/)]
 
 # 👩‍🏫 Teaching Experiences
 <!-- 

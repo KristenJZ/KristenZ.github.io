@@ -27,7 +27,7 @@ My research primarily centers around emerging technology and science communicati
   
 # 📝 Publications
 ## Journal Articles
-- *(2024) Addressing whiteness in communication scholar composition and collaboration across seven decades of ICA journals (1951-2022).*
+- [2]*(2024) Addressing whiteness in communication scholar composition and collaboration across seven decades of ICA journals (1951-2022).*
   <br>
   Haley R Hatfield, Hongtao Hao, Matthew Klein, **Jing Zhang**, Yijie Fu, Jaemin Kim, Jongmin Lee, and Sun Joo (Grace) Ahn
   <br>
@@ -35,7 +35,7 @@ My research primarily centers around emerging technology and science communicati
   <br>
   [[doi](https://doi.org/10.1093/joc/jqae019)]|[[Data](https://osf.io/8bszj/)]|[[Code](https://osf.io/8bszj/)]
   
-- *(2023) Why do Chinese people consume video game live streaming on the platform? An exploratory study connecting affordance-based gratifications, user identification, and user engagement.*
+- [1]*(2023) Why do Chinese people consume video game live streaming on the platform? An exploratory study connecting affordance-based gratifications, user identification, and user engagement.*
   <br>
   **Jing (Kristen) Zhang**, Riwei Liu
   <br>
@@ -44,7 +44,7 @@ My research primarily centers around emerging technology and science communicati
   [[doi](https://doi.org/10.1016/j.tele.2023.102075)]
 
 ## Research Reports
-- *(2024) Communications, media and internet concentration in China, 2019-2021.*
+- [1]*(2024) Communications, media and internet concentration in China, 2019-2021.*
    <br>
   Min Jiang, Xiaofei Han, **Jing (Kristen) Zhang**
    <br>

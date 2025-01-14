@@ -19,7 +19,7 @@ redirect_from:
 # About Me 
 My name is Jing (Kristen) Zhang. I am a Ph.D. student in [the Department of Communication and Media at the University of Michigan](https://lsa.umich.edu/comm). I completed Bachelor's degree from [the School of Journalism at Fudan University](http://www.xwxy.fudan.edu.cn/n1339/index.html) and my Master's degree from [the Department of Communication Studies at the University of North Carolina at Charlotte](https://communication.charlotte.edu/). 
 
-My research primarily centers around emerging technology and science communication. Specifically, I use survey and experimental studies to investigate how emerging technologies open new opportunities for engaging the public with scientific topics and fostering a greater understanding of scientific concepts and behaviors. I have published a few papers in communication journals such as *Journal of Communication*, *Telematics and Informatics*, with a total <a href='https://scholar.google.com/citations?user=z6sTzq8AAAAJ&hl'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>.
+My research primarily centers around emerging technology and science communication. Specifically, I use survey and experimental studies to investigate how emerging technologies open new opportunities for engaging the public with scientific topics and fostering a greater understanding of scientific concepts and behaviors. I have published in top communication journals such as *Journal of Communication*, *Telematics and Informatics*.
 
 
 # 🔥 News
@@ -49,11 +49,11 @@ My research primarily centers around emerging technology and science communicati
   [[doi](https://doi.org/10.1016/j.tele.2023.102075)]
 
 ## Research Reports
-[1]*(2024) Communications, media and internet concentration in China, 2019-2021.*
-<br>
-Min Jiang, Xiaofei Han, **Jing (Kristen) Zhang**
- <br>
-China Team's report on the project [[Global Media and Internet Concentration Project](https://gmicp.org/communications-media-and-internet-concentration-in-china-2019-2021/)]
+- [1]*(2024) Communications, media and internet concentration in China, 2019-2021.*
+  <br>
+  Min Jiang, Xiaofei Han, **Jing (Kristen) Zhang**
+  <br>
+  China Team's report on the project [[Global Media and Internet Concentration Project](https://gmicp.org/communications-media-and-internet-concentration-in-china-2019-2021/)]
 
 # 📖 Teaching Experiences
 ## Teaching Assistant

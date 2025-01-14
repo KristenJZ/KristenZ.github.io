@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About Me"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -16,43 +16,48 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# About Me 
+My name is Jing (Kristen) Zhang. I am a Ph.D. student in [the Department of Communication and Media at the University of Michigan](https://lsa.umich.edu/comm). I completed Bachelor's degree from [the School of Journalism at Fudan University](http://www.xwxy.fudan.edu.cn/n1339/index.html) and my Master's degree from [the Department of Communication Studies at the University of North Carolina at Charlotte](https://communication.charlotte.edu/). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research primarily centers around emerging technology and science communication. Specifically, I use survey and experimental studies to investigate how emerging technologies open new opportunities for engaging the public with scientific topics and fostering a greater understanding of scientific concepts and behaviors. I have published a few papers in communication journals such as *Journal of Communication*, *Telematics and Informatics*, with a total <a href='https://scholar.google.com/citations?user=z6sTzq8AAAAJ&hl'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **[Aug. 2024]** I am joining [the Department of Communication and Media at the University of Michiagn](https://lsa.umich.edu/comm) as a Ph.D. student.
+- **[Jun. 2024]** I am presenting our research report about [the media ownership and concentration in China from 2019 to 2021](https://gmicp.org/communications-media-and-internet-concentration-in-china-2019-2021/) on [Global Media and Internet Concentration Project](https://gmicp.org/) with [Dr. Min Jiang](https://pages.charlotte.edu/min-jiang/) and [Xiaofei Han](https://carleton.ca/sjc/profile/han-xiaofei/) at the 74th ICA.
+- **[May. 2024]** I graduated with my Master's degree in Communication Studies from [the University of North Carolina at Charlotte](https://communication.charlotte.edu/).
+- **[Apr. 2024]** Our paper titled *Addressing Whiteness in communication scholar composition and collaboration across seven decades of ICA journals (1951–2022)* has been accepted to be published in *Journal of Communication*. [[doi](https://doi.org/10.1093/joc/jqae019)]
+- **[Mar. 2024]** Our research report titled *Communications, media and internet concentration in China, 2019-2021* has been published. The dataset can also be accessed. [[doi](http://doi.org/10.22215/gmicp/2024.5.19.3.)]
+- **[Nov. 2023]** Our paper titled *Why do Chinese people consume video game live streaming on the platform? An exploratory study linking affordance-based gratifications, user identification, and user engagement* has been accepted to be publishd in *Telematics and Informatics*. [[doi](https://doi.org/10.1016/j.tele.2023.102075)]
 
 # 📝 Publications 
+## Journal Articles
+- [2]*(2024) Addressing whiteness in communication scholar composition and collaboration across seven decades of ICA journals (1951-2022).*
+  <br>
+  Haley R Hatfield, Hongtao Hao, Matthew Klein, **Jing Zhang**, Yijie Fu, Jaemin Kim, Jongmin Lee, and Sun Joo (Grace) Ahn
+  <br>
+  Published in *Journal of Communication*. 
+  <br>
+  [[doi](https://doi.org/10.1093/joc/jqae019)]|[[Data](https://osf.io/8bszj/)]|[[Code](https://osf.io/8bszj/)]
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- [1]*(2023) Why do Chinese people consume video game live streaming on the platform? An exploratory study connecting affordance-based gratifications, user identification, and user engagement.*
+  <br>
+  **Jing (Kristen) Zhang**, Riwei Liu
+  <br>
+  Published in *Telematics and Informatics*. 
+  <br>
+  [[doi](https://doi.org/10.1016/j.tele.2023.102075)]
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+## Research Reports
+[1]*(2024) Communications, media and internet concentration in China, 2019-2021.*
+<br>
+Min Jiang, Xiaofei Han, **Jing (Kristen) Zhang**
+ <br>
+China Team's report on the project [[Global Media and Internet Concentration Project](https://gmicp.org/communications-media-and-internet-concentration-in-china-2019-2021/)]
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 📖 Teaching Experiences
+## Teaching Assistant
+- **2023FALL and 2024 SPRING** Teaching Assistant for COMM2100: Introduction to Communication Theory at the University of North Carolina at Charlotte. [[Slides](https://comm2100.kristenjz.com/slides/)]
+- **2023SPRING** Teaching Assistant for COMM3100: Communication Research Methods at the University of North Carolina at Charlotte.
+- **2022FALL** Teaching Assistant for COMM1101: Public Speaking at the University of North Carolina at Charlotte.
+- **2020SPRING** Teaching Assistant for JOUR120008: Introduction to Journalism Studies at Fudan University.

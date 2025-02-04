@@ -19,9 +19,9 @@ redirect_from:
 # About Me 
 My name is Jing (Kristen) Zhang. I am a Ph.D. student in [the Department of Communication and Media at the University of Michigan](https://lsa.umich.edu/comm). I completed my Bachelor's degree from [the School of Journalism at Fudan University](http://www.xwxy.fudan.edu.cn/n1339/index.html) and my Master's degree from [the Department of Communication Studies at the University of North Carolina at Charlotte](https://communication.charlotte.edu/). 
 
-My research primarily centers around emerging technology, science communication, and media effects from the perspective of media psychology. Specifically, I use survey and experimental studies to investigate a) how emerging technologies bring new opportunities and challenges for engaging the public with scientific topics, especially climate change, and b) how technical elements (affordances) influence human behaviors such as media consumption and engagement. 
+My research primarily centers around emerging technology, science communication, and media effects from the perspective of media psychology. Specifically, I use survey and experimental studies to investigate a) how emerging technologies bring new opportunities and challenges to controversial science topics, and b) how technical elements (affordances) influence human behaviors such as media consumption and engagement. 
 
-I have published in renowned peer-review journals such as the *Journal of Communication*, *Telematics and Informatics*.
+My researches have been published in renowned peer-review journals such as the *Journal of Communication*, *Telematics and Informatics*.
 
 
 # 🔥 News

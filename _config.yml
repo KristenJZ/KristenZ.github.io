@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "KristenJZ" # e.g., "github username"
+  github           : #"KristenJZ" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : "jing-kristen-zhang-307b90187/" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0000-8872-1010" # e.g., "https://orcid.org/xxxx"
+  orcid            : #"https://orcid.org/0009-0000-8872-1010" # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

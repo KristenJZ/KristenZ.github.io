@@ -64,7 +64,7 @@ My research has been published in renowned peer-reviewed journals such as the *J
 
 # 📖 Teaching Experiences
 ## Teaching Assistant
-- **2023 Fall and 2024 SPRING** Teaching Assistant for COMM2100: Introduction to Communication Theory at the University of North Carolina at Charlotte. [[Class Website](https://comm2100.kristenjz.com)]
+- **2023 Fall and 2024 SPRING** Teaching Assistant for COMM2100: Introduction to Communication Theory at the University of North Carolina at Charlotte. [[Course Website](https://comm2100.kristenjz.com)]
 - **2023 SPRING** Teaching Assistant for COMM3100: Communication Research Methods at the University of North Carolina at Charlotte.
 - **2022 FALL** Teaching Assistant for COMM1101: Public Speaking at the University of North Carolina at Charlotte.
 - **2020 SPRING** Teaching Assistant for JOUR120008: Introduction to Journalism Studies at Fudan University.

@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me 
-My name is Jing (Kristen) Zhang. I am a Ph.D. student in [the Department of Communication and Media at the University of Michigan](https://lsa.umich.edu/comm). I completed my Bachelor's degree from [the School of Journalism at Fudan University[**复旦大学新闻学院**]](http://www.xwxy.fudan.edu.cn/n1339/index.html) and my Master's degree from [the Department of Communication Studies at the University of North Carolina at Charlotte](https://communication.charlotte.edu/). 
+My name is Jing (Kristen) Zhang. I am a Ph.D. student in [the Department of Communication and Media at the University of Michigan](https://lsa.umich.edu/comm). I completed my Bachelor's degree from [the School of Journalism at Fudan University[复旦大学新闻学院]](http://www.xwxy.fudan.edu.cn/n1339/index.html) and my Master's degree from [the Department of Communication Studies at the University of North Carolina at Charlotte](https://communication.charlotte.edu/). 
 
 My research primarily centers around emerging technology, science communication, and media effects from the perspective of media psychology. Specifically, I use survey and experimental studies to investigate:
 

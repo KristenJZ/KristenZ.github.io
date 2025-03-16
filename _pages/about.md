@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me 
-My name is Jing (Kristen) Zhang. I am a Ph.D. student in [the Department of Communication and Media at the University of Michigan](https://lsa.umich.edu/comm). I completed my Bachelor's degree from [the School of Journalism at Fudan University[复旦大学新闻学院]](http://www.xwxy.fudan.edu.cn/n1339/index.html) and my Master's degree from [the Department of Communication Studies at the University of North Carolina at Charlotte](https://communication.charlotte.edu/). 
+My name is Jing (Kristen) Zhang. I am a Ph.D. student in [the Department of Communication and Media at the University of Michigan](https://lsa.umich.edu/comm). I completed my Bachelor's degree from [the School of Journalism at Fudan University](http://www.xwxy.fudan.edu.cn/n1339/index.html) and my Master's degree from [the Department of Communication Studies at the University of North Carolina at Charlotte](https://communication.charlotte.edu/). 
 
-My research primarily centers around emerging technology, science communication, and media effects from the perspective of media psychology. Specifically, I use survey and experimental studies to investigate:
+My research primarily centers around **communication technology, science communication, and media effects** from the perspective of media psychology. Specifically, I use survey and experimental studies to investigate:
 
-a) how emerging technologies and narratives bring new opportunities and challenges to controversial science topics.
+a) **How emerging technologies and narratives bring new opportunities and challenges to controversial science topics.**
 
-b) how technical elements (AI, algorithms, platform affordances) influence human behaviors such as news/media consumption and engagement in various contexts such as science, entertainment, and politics.  
+b) **How technical elements (AI, algorithms, platform affordances) influence human behaviors such as news/media consumption and engagement in various contexts such as science, entertainment, and politics. ** 
 
-My research has been published in renowned peer-reviewed journals such as the *Journal of Communication*, *Telematics and Informatics*.
+My research has been published in peer-reviewed journals such as the *Journal of Communication*, *Telematics and Informatics*.
 
 
 # 🔥 News

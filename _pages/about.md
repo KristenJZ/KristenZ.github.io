@@ -23,7 +23,7 @@ My research primarily centers around **communication technology, science communi
 
 a) **How emerging technologies and narratives bring new opportunities and challenges to controversial science topics.**
 
-b) **How technical elements (AI, algorithms, platform affordances) influence human behaviors such as news/media consumption and engagement in various contexts such as science, entertainment, and politics. ** 
+b) **How technical elements (AI, algorithms, platform affordances) influence human behaviors such as news/media consumption and engagement in various contexts such as science, entertainment, and politics.** 
 
 My research has been published in peer-reviewed journals such as the *Journal of Communication*, *Telematics and Informatics*.
 

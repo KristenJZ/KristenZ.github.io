@@ -25,7 +25,7 @@ a) **How emerging technologies and narratives bring new opportunities and challe
 
 b) **How people perceive the connection between extreme weather and anthropogenic climate change from news and social media.**
 
-c) **How technical affordances influence human behaviors such as media consumption and engagement in various contexts such as science, entertainment, and politics.** 
+c) **How technical affordances influence human behaviors such as media consumption and engagement in the context of science/entertainment.** 
 
 My research has been published in peer-reviewed journals such as the *Journal of Communication*, *Telematics and Informatics*.
 

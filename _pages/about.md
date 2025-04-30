@@ -31,7 +31,6 @@ My research has been published in peer-reviewed journals such as the *Journal of
 
 
 # 🔥 News
-- **[Mar. 2025]** One paper is accepted by APSA 2025! See you in Vancouver this September. 
 - **[Aug. 2024]** I am joining [the Department of Communication and Media at the University of Michigan](https://lsa.umich.edu/comm) as a Ph.D. student.
 - **[Jun. 2024]** I am presenting our research report about [the media ownership and concentration in China from 2019 to 2021](https://gmicp.org/communications-media-and-internet-concentration-in-china-2019-2021/) on [Global Media and Internet Concentration Project](https://gmicp.org/) with [Dr. Min Jiang](https://pages.charlotte.edu/min-jiang/) and [Xiaofei Han](https://carleton.ca/sjc/profile/han-xiaofei/) at the 74th ICA.
 - **[May. 2024]** I graduated with my Master's degree in Communication Studies from [the University of North Carolina at Charlotte](https://communication.charlotte.edu/).

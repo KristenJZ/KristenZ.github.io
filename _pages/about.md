@@ -27,11 +27,13 @@ b) **How people perceive the connection between extreme weather and anthropogeni
 
 c) **How technical affordances influence human behaviors such as media consumption and engagement in the context of science/entertainment.** 
 
-My research has been published in peer-reviewed journals such as the *Journal of Communication*, *Telematics and Informatics*.
+My research has been published in peer-reviewed journals such as the *Journal of Communication*, *Telematics and Informatics*. My research has received one top paper award from the Association for Education in Journalism and Mass Communication. 
 
 
 # 🔥 News
-- **[May. 2025]** Two papers are accepted by AEJMC! One paper won the second-place top research paper award! See you in San Francisco this August!
+- **[Aug. 2025]** I am elected as the Graduate Student Representative in the Department of Communication and Media at the University of Michigan! Happy to serve all the graduate students in our department.
+- **[Jul. 2025]** I received the ISR-Rackham Summer Training Award at the University of Michigan. Will be funded to receive training on advanced quantitative methods at the [ICPSR](https://www.icpsr.umich.edu/web/pages/index.html) in July. Welcome to connect with me in Ann Arbor!
+- **[May. 2025]** Two papers are accepted to AEJMC 2025. I'll present my paper in the CommSHER division and the Comm Technology division. One paper won the second-place top research paper award at the CommSHER division! See you in San Francisco this August!
 - **[Aug. 2024]** I am joining [the Department of Communication and Media at the University of Michigan](https://lsa.umich.edu/comm) as a Ph.D. student.
 - **[Jun. 2024]** I am presenting our research report about [the media ownership and concentration in China from 2019 to 2021](https://gmicp.org/communications-media-and-internet-concentration-in-china-2019-2021/) on [Global Media and Internet Concentration Project](https://gmicp.org/) with [Dr. Min Jiang](https://pages.charlotte.edu/min-jiang/) and [Xiaofei Han](https://carleton.ca/sjc/profile/han-xiaofei/) at the 74th ICA.
 - **[May. 2024]** I graduated with my Master's degree in Communication Studies from [the University of North Carolina at Charlotte](https://communication.charlotte.edu/).
@@ -65,7 +67,12 @@ My research has been published in peer-reviewed journals such as the *Journal of
   China Team's report on the project [[Global Media and Internet Concentration Project](https://gmicp.org/communications-media-and-internet-concentration-in-china-2019-2021/)]
 
 # 📖 Teaching Experiences
+## Graduate Student Instructor
+
+- **2025 Fall** GSI for COMM343: Public Relations - Principles and Practices at the University of Michigan.
+
 ## Teaching Assistant
+
 - **2023 Fall and 2024 SPRING** Teaching Assistant for COMM2100: Introduction to Communication Theory at the University of North Carolina at Charlotte. [[Course Website](https://comm2100.kristenjz.com)]
 - **2023 SPRING** Teaching Assistant for COMM3100: Communication Research Methods at the University of North Carolina at Charlotte.
 - **2022 FALL** Teaching Assistant for COMM1101: Public Speaking at the University of North Carolina at Charlotte.

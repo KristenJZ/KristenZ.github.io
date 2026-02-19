@@ -21,19 +21,20 @@ My name is Jing (Kristen) Zhang. I am a Ph.D. student in [the Department of Comm
 
 My research primarily centers around **communication technology, science communication, and media effects** from the perspective of media psychology. Specifically, I use survey and experimental studies to investigate:
 
-a) **How emerging technologies and narratives bring new opportunities and challenges to controversial science topics.**
+a) **How AI-assisted narratives bring new opportunities and challenges to science communication.**
 
-b) **How people perceive the connection between extreme weather and anthropogenic climate change from news and social media.**
+b) **How people perceive the connection between extreme weather and climate change from news and social media.**
 
-c) **How technical affordances influence human behaviors such as media consumption and engagement in the context of science/entertainment.** 
+c) **How technical affordances influence media consumption and engagement in the context of science/entertainment.** 
 
 My research has been published in peer-reviewed journals such as the *Journal of Communication*, *Telematics and Informatics*. My research has received one top paper award from the Association for Education in Journalism and Mass Communication. 
 
 
 # 🔥 News
+- **[Jan. 2026]** One paper are accepted to ICA 2026. I'll present my paper in the Health Communication division. See you in South Africa this June!
 - **[Aug. 2025]** I am elected as the Graduate Student Representative in the Department of Communication and Media at the University of Michigan! Happy to serve all the graduate students in our department.
 - **[Jul. 2025]** I received the ISR-Rackham Summer Training Award at the University of Michigan. Will be funded to receive training on advanced quantitative methods at the [ICPSR](https://www.icpsr.umich.edu/web/pages/index.html) in July. Welcome to connect with me in Ann Arbor!
-- **[May. 2025]** Two papers are accepted to AEJMC 2025. I'll present my paper in the CommSHER division and the Comm Technology division. One paper won the second-place top research paper award at the CommSHER division! See you in San Francisco this August!
+- **[May. 2025]** Two papers are accepted to AEJMC 2025. I'll present my paper in the ComSHER division and the Comm Technology division. One paper won the second-place top research paper award at the ComSHER division! See you in San Francisco this August!
 - **[Aug. 2024]** I am joining [the Department of Communication and Media at the University of Michigan](https://lsa.umich.edu/comm) as a Ph.D. student.
 - **[Jun. 2024]** I am presenting our research report about [the media ownership and concentration in China from 2019 to 2021](https://gmicp.org/communications-media-and-internet-concentration-in-china-2019-2021/) on [Global Media and Internet Concentration Project](https://gmicp.org/) with [Dr. Min Jiang](https://pages.charlotte.edu/min-jiang/) and [Xiaofei Han](https://carleton.ca/sjc/profile/han-xiaofei/) at the 74th ICA.
 - **[May. 2024]** I graduated with my Master's degree in Communication Studies from [the University of North Carolina at Charlotte](https://communication.charlotte.edu/).
@@ -69,6 +70,8 @@ My research has been published in peer-reviewed journals such as the *Journal of
 # 📖 Teaching Experiences
 ## Graduate Student Instructor
 
+- **2026 Winter** GSI for COMM342: Beyond the Runway - Public Relations and Communication Strategies in the
+  Fashion, Beauty, and Design Industry at the University of Michigan.
 - **2025 Fall** GSI for COMM343: Public Relations - Principles and Practices at the University of Michigan.
 
 ## Teaching Assistant

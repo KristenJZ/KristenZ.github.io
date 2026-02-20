@@ -27,7 +27,7 @@ b) **How people perceive the connection between extreme weather and climate chan
 
 c) **How technical affordances influence media consumption and engagement in the context of science/entertainment.** 
 
-My research has been published in peer-reviewed journals such as the *Journal of Communication*, *Telematics and Informatics*. My research has received one top paper award from the Association for Education in Journalism and Mass Communication. 
+My research has been published in peer-reviewed journals such as the *Journal of Communication*, *Telematics and Informatics*. My research has received one top paper award from AEJMC. 
 
 
 # 🔥 News

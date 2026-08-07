@@ -31,6 +31,7 @@ My research has been published in peer-reviewed journals such as the *Journal of
 
 
 # 🔥 News
+- **[Aug. 2026]** One paper is accepted to SRA 2026. I will present my paper in the Risk Communication Specialty Group. Also, I received the SRA Travel Award to support my travel to Atlanta. See you in Atlanta in December!
 - **[Jan. 2026]** One paper is accepted to ICA 2026. I'll present my paper in the Health Communication division. See you in South Africa this June!
 - **[Aug. 2025]** I am elected as the Graduate Student Representative in the Department of Communication and Media at the University of Michigan! Happy to serve all the graduate students in our department.
 - **[Jul. 2025]** I received the ISR-Rackham Summer Training Award at the University of Michigan. Will be funded to receive training on advanced quantitative methods at the [ICPSR](https://www.icpsr.umich.edu/web/pages/index.html) in July. Welcome to connect with me in Ann Arbor!

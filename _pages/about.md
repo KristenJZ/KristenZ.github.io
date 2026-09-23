@@ -71,6 +71,7 @@ My research has been published in peer-reviewed journals such as the *Journal of
 # 📖 Teaching Experiences
 ## Graduate Student Instructor
 
+- **2026 Fall** GSI for COMM305: Brand Storytelling for Advertising at the University of Michigan.
 - **2026 Winter** GSI for COMM342: Beyond the Runway - Public Relations and Communication Strategies in the
   Fashion, Beauty, and Design Industry at the University of Michigan.
 - **2025 Fall** GSI for COMM343: Public Relations - Principles and Practices at the University of Michigan.

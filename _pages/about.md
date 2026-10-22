@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me 
-My name is Jing (Kristen) Zhang. I am a Ph.D. student in [the Department of Communication and Media at the University of Michigan](https://lsa.umich.edu/comm). I completed my Bachelor's degree from [the School of Journalism at Fudan University](http://www.xwxy.fudan.edu.cn/n1339/index.html) and my Master's degree from [the Department of Communication Studies at the University of North Carolina at Charlotte](https://communication.charlotte.edu/). 
+My name is Jing (Kristen) Zhang. I am a Ph.D. candidate in [the Department of Communication and Media at the University of Michigan](https://lsa.umich.edu/comm). I completed my Bachelor's degree from [the School of Journalism at Fudan University](http://www.xwxy.fudan.edu.cn/n1339/index.html) and my Master's degree from [the Department of Communication Studies at the University of North Carolina at Charlotte](https://communication.charlotte.edu/). 
 
 My research primarily centers around **communication technology, science communication, and media effects** from the perspective of media psychology. Specifically, I use survey and experimental studies to investigate:
 
@@ -31,6 +31,7 @@ My research has been published in peer-reviewed journals such as the *Journal of
 
 
 # 🔥 News
+- **[Oct. 2026]** I passed my prelim exams and sucessfully advanced to a Ph.D. Candidate!
 - **[Aug. 2026]** One paper is accepted to SRA 2026. I will present my paper in the Risk Communication Specialty Group. Also, I received the SRA Travel Award to support my travel to Atlanta. See you in Atlanta in December!
 - **[Jan. 2026]** One paper is accepted to ICA 2026. I'll present my paper in the Health Communication division. See you in South Africa this June!
 - **[Aug. 2025]** I am elected as the Graduate Student Representative in the Department of Communication and Media at the University of Michigan! Happy to serve all the graduate students in our department.
